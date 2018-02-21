@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleRSSReader</string>
+    <string name="noticias">Noticias</string>
+    <string name="imagenes_de_noticias">imagenes de noticias</string>
+</resources>
