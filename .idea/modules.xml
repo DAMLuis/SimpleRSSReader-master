@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://C:\Users\Usuario\AndroidStudioProjects\SimpleRSSReader-master\SimpleRSSReader.iml" filepath="C:\Users\Usuario\AndroidStudioProjects\SimpleRSSReader-master\SimpleRSSReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleRSSReader-master.iml" filepath="$PROJECT_DIR$/SimpleRSSReader-master.iml" />
+      <module fileurl="file://C:\Users\Luis\AndroidStudioProjects\SimpleRSSReader-master\SimpleRSSReader-master.iml" filepath="C:\Users\Luis\AndroidStudioProjects\SimpleRSSReader-master\SimpleRSSReader-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Luis\AndroidStudioProjects\SimpleRSSReader-master\app\app.iml" filepath="C:\Users\Luis\AndroidStudioProjects\SimpleRSSReader-master\app\app.iml" />
     </modules>
   </component>
 </project>
